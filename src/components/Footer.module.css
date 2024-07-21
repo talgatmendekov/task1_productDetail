@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoBox {
+    display: flex;
+    align-items: center;
+}
